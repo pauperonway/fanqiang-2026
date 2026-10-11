@@ -20,3 +20,4 @@
 
 <img width="200" height="200" alt="be1ad0b827062a1c06bb1c41115f6a24" src="https://github.com/user-attachments/assets/d581edd5-76d4-4aff-b93d-2a31e6a71b9d" />
 
+新用户 UUID: e3b9cc05-ba5b-4261-a222-814f2f4b9909
