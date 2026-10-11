@@ -14,4 +14,4 @@
 
 您试用成功后记得每月支付费用9.9元/月
 
-<img width="553" height="450" alt="85e7ea5577da3adca652575cd213e6a9" src="https://github.com/user-attachments/assets/5d9bb293-ec3d-4c72-b8a2-fff20c0c9179" />
+<img width="200" height="200" alt="85e7ea5577da3adca652575cd213e6a9" src="https://github.com/user-attachments/assets/5d9bb293-ec3d-4c72-b8a2-fff20c0c9179" />
