@@ -16,7 +16,7 @@
 
 <img width="200" height="200" alt="85e7ea5577da3adca652575cd213e6a9" src="https://github.com/user-attachments/assets/5d9bb293-ec3d-4c72-b8a2-fff20c0c9179" />
 
-微信联系方式：
+如果需要个人或者企业定制服务，请微信联系：
 
 <img width="200" height="200" alt="be1ad0b827062a1c06bb1c41115f6a24" src="https://github.com/user-attachments/assets/d581edd5-76d4-4aff-b93d-2a31e6a71b9d" />
 
